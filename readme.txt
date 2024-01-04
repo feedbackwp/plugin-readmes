@@ -1,8 +1,8 @@
 === Rate my Post PRO - WP Rating System ===
 Contributors: collizo4sky
 Tags: Rating System, Rate Post, Rate Page, Star Rating, Post Rating, Post Feedback, Page Feedback, Responsive Star Rating, Lightweight Post Rating, Ajax Post Rating, Post Rating Analytics, Post Rating, Rich Snippet
-Requires at least: 4.7.0
-Tested up to: 6.4
+Requires at least: 4.9
+Tested up to: 6.4.2
 Stable tag: 3.4.3
 Requires PHP: 5.3
 License: GPLv3
