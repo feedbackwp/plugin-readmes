@@ -3,7 +3,7 @@ Contributors: collizo4sky
 Tags: Rating System, Rate Post, Rate Page, Star Rating, Post Rating, Post Feedback, Page Feedback, Responsive Star Rating, Lightweight Post Rating, Ajax Post Rating, Post Rating Analytics, Post Rating, Rich Snippet
 Requires at least: 4.9
 Tested up to: 6.4.2
-Stable tag: 3.4.3
+Stable tag: 3.4.4
 Requires PHP: 5.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -47,6 +47,9 @@ In comparison to the free version, Rate My Post PRO supports custom rating widge
 5. Add shortcode [ratemypost] to your posts or embed rating widgets automatically in the Settings
 
 == Changelog ==
+= 3.4.4 =
+* [Includes all changes of Rate my Post FREE](https://wordpress.org/plugins/rate-my-post/#developers)
+
 = 3.4.3 =
 * [Includes all changes of Rate my Post FREE](https://wordpress.org/plugins/rate-my-post/#developers)
 
