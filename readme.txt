@@ -1,9 +1,9 @@
-=== Rate my Post PRO - WP Rating System ===
-Contributors: collizo4sky
+=== Rate My Post - WP Rating System by FeedbackWP ===
+Contributors: collizo4sky, properfraction
 Tags: Rating System, Rate Post, Rate Page, Star Rating, Post Rating, Post Feedback, Page Feedback, Responsive Star Rating, Lightweight Post Rating, Ajax Post Rating, Post Rating Analytics, Post Rating, Rich Snippet
-Requires at least: 4.9
-Tested up to: 6.4.2
-Stable tag: 3.4.4
+Requires at least: 4.7.0
+Tested up to: 6.4
+Stable tag: 3.4.5
 Requires PHP: 5.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -14,9 +14,9 @@ The number one rating plugin!
 
 **The PRO version of the number one rating plugin!**
 
-Rate my Post PRO - WP Rating System allows you to add rating functionality to your WordPress website easily. Visitors can rate your posts/pages and send you private feedback after rating. What sets Rate my Post apart from other WordPress rating plugins is its simplicity, performance and impact on engagement. It works with any page cache plugin and is probably the most customizable WordPress rating plugin.
+Rate my Post PRO - WP Rating System allows you to add rating functionality to your WordPress website easily. Visitors can rate your posts/pages and send you private feedback after rating. What sets Rate My Post apart from other WordPress rating plugins is its simplicity, performance, and impact on engagement. It works with any page cache plugin and is probably the most customizable WordPress rating plugin.
 
-In comparison to the free version, Rate My Post PRO supports custom rating widgets and an advanced schema selector.
+In comparison to the free version, Rate My Post PRO supports custom rating widgets and advanced schema selector.
 
 == Installation ==
 
@@ -47,6 +47,10 @@ In comparison to the free version, Rate My Post PRO supports custom rating widge
 5. Add shortcode [ratemypost] to your posts or embed rating widgets automatically in the Settings
 
 == Changelog ==
+
+= 3.4.5 =
+* Fixed bug where a private post could be rated.
+
 = 3.4.4 =
 * [Includes all changes of Rate my Post FREE](https://wordpress.org/plugins/rate-my-post/#developers)
 
