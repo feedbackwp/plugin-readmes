@@ -116,5 +116,5 @@ In comparison to the free version, Rate My Post PRO supports custom rating widge
 
 == Upgrade Notice ==
 
-= 4.0.0 =
+= 3.4.5 =
 Rate My Post by FeedbackWP Premium will now require installation and activation of the free/core version.
