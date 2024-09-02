@@ -1,10 +1,10 @@
 === Rate My Post - Star Rating System by FeedbackWP ===
 Contributors: collizo4sky, properfraction
 Tags: Rating System, Rate Post, Rate Page, Star Rating, Post Rating, Post Feedback, Page Feedback, Responsive Star Rating, Lightweight Post Rating, Ajax Post Rating, Post Rating Analytics, Post Rating, Rich Snippet
-Requires at least: 4.7.0
-Tested up to: 6.4
-Stable tag: 4.0.0
-Requires PHP: 5.3
+Requires at least: 4.9
+Tested up to: 6.6
+Stable tag: 4.0.1
+Requires PHP: 7.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,6 +47,10 @@ In comparison to the free version, Rate My Post PRO supports custom rating widge
 5. Add shortcode [ratemypost] to your posts or embed rating widgets automatically in the Settings
 
 == Changelog ==
+
+= 4.0.1 =
+* Ensure rating metaboxes in edit screen are shown when necessary.
+* Added better support for decimal average rating input during bulk-rating.
 
 = 4.0.0 =
 * [Bulk-Rating Tool](https://feedbackwp.com/docs/#Bulk_Rating_Tool) to add ratings to posts without votes.
